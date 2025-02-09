@@ -1,0 +1,47 @@
+:root {
+	--color1-10: #181002;
+	--color1-20: #543907;
+	--color1-30: #91630C;
+	--color1-40: #CE8C10;
+	--color1-50: #EFAD31;
+	--color1-60: #F3C56E;
+	--color1-70: #F8DDAB;
+	--color1-80: #FDF5E6; /* Base color */
+
+	--color2-10: #1A1200;
+	--color2-20: #5B3F00;
+	--color2-30: #9D6C00;
+	--color2-40: #F0A500; /* Base color */
+	--color2-50: #FFBA21;
+	--color2-60: #FFCE62;
+	--color2-70: #FFE3A4;
+	--color2-80: #FFF7E5;
+
+	--color3-10: #061213;
+	--color3-20: #164045;
+	--color3-30: #266D77;
+	--color3-40: #359BA9;
+	--color3-50: #56BCCA;
+	--color3-60: #77C9D4; /* Base color */
+	--color3-70: #BAE4E9;
+	--color3-80: #ECF7F9;
+
+	--color4-10: #09110F;
+	--color4-20: #1F3C37;
+	--color4-30: #35685E;
+	--color4-40: #4B9386;
+	--color4-50: #57A99A; /* Base color */
+	--color4-60: #97CAC1;
+	--color4-70: #C3E0DB;
+	--color4-80: #EEF6F5;
+
+	--color5-10: #060D13;
+	--color5-20: #1C3D5A; /* Base color */
+	--color5-30: #255177;
+	--color5-40: #3573A9;
+	--color5-50: #5694CA;
+	--color5-60: #88B3DA;
+	--color5-70: #BAD3E9;
+	--color5-80: #ECF3F9;
+
+}
